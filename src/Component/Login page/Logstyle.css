@@ -1,0 +1,217 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v132_26 {
+    width: 100%;
+    height: 768px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v132_27 {
+    width: 100%;
+    height: 768px;
+    background: rgba(246,246,246,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v132_28 {
+    width: 400px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 276px;
+    left: 483px;
+    font-family: Lato;
+    font-weight: Regular;
+    font-size: 19px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v132_29 {
+    width: 193px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 214px;
+    left: 586px;
+    font-family: Lato;
+    font-weight: Black;
+    font-size: 27px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v132_30 {
+    width: 400px;
+    height: 91px;
+ 
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 334px;
+    left: 520px;
+    overflow: hidden;
+  }
+  .v132_31 {
+    width: 43px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Lato;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v132_32 {
+    width: 400px;
+    height: 56px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 35px;
+    left: 0px;
+    border: 1px solid rgba(211,211,211,1);
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    overflow: hidden;
+  }
+  .v132_33 {
+    width: 400px;
+    height: 91px;
+
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 436px;
+    left: 520px;
+    overflow: hidden;
+  }
+  .v132_34 {
+    width: 76px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Lato;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v132_35 {
+    width: 400px;
+    height: 56px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 35px;
+    left: 0px;
+    border: 1px solid rgba(211,211,211,1);
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    overflow: hidden;
+  }
+  .v132_36 {
+    width: 400px;
+    height: 56px;
+   
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 558px;
+    left: 520px;
+    overflow: hidden;
+  }
+  .v132_37 {
+    width: 400px;
+    height: 56px;
+    background: #13AAC0;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-color: #13AAC0;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    overflow: hidden;
+    font-family: Lato;
+    font-weight: Bold;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+  }
+
+  .v132_39 {
+    width: 294px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 670px;
+    left: 560px;
+    font-size: 19px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v132_390 {
+    width: 294px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 640px;
+    left: 560px;
+    font-size: 19px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v132_40 {
+    width: 271px;
+    height: 99px;
+    background: url("../../Image/v132_40.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 74px;
+    left: 547px;
+    overflow: hidden;
+  }
+  
+.signuplink {
+  color: #13AAC0;
+  
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
